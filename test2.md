@@ -14,7 +14,7 @@
 
 
 <pre><code class="lang-objc">#import "UIkit"
--(void)scrollViewDidScroll:(UIScrollView *)scrollView
+-(void)scrollVidScroll:(UIScrollView *)scrollView
 {
     
     CGFloat scale = scrollView.contentOffset.x / scrollView.frame.size.width;
