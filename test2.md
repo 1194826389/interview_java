@@ -1,19 +1,10 @@
-<link rel="stylesheet" href="/Users/hechao/highlight/styles/solarized-dark.css">  
-
-<script src="/Users/hechao/highlight/highlight.pack.js"></script>  
-<script src="/Users/hechao/highlightjs-line-numbers.js-master/src/highlightjs-line-numbers.js"></script>
-
-
-<script>hljs.initHighlightingOnLoad();</script> 
-<script>hljs.initLineNumbersOnLoad();</script> 
-
-
 # 标题1
 ## 标题2
 
 
 
-<pre><code class="lang-objc">#import "UIkit"
+```c
+class="lang-objc">#import "UIkit"
 -(void)scrollVidScroll:(UIScrollView *)scrollView
 {
     
@@ -44,6 +35,5 @@
     //  绿色    0  1  0
     //  蓝色    0  0  1
 }    
-</code>
-</pre>
+```
 
